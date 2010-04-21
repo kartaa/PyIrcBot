@@ -3,3 +3,9 @@ PyIRC-BOT
 
 It is a simple, easy to customize and use, bot written in python.
 
+It supports
+
+1. Different IRC Networks
+2. Customizable handling of commands that are passed on to the bot by users.
+3. Customizable handling of messages that are passed on to the bot by users.
+

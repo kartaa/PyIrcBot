@@ -1,0 +1,7 @@
+USAGE
+=====
+
+1. Configure the config/irc-bot.cfg to have appropriate information.
+2. Code IrcBot.responses.static.py and IrcBot.responses.dynamic.py according to your requirements.
+3. Run bot as
+    python PyIrcBot.py
